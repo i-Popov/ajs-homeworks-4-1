@@ -1,5 +1,5 @@
-import sum from './basic';
-
-/* eslint-disable no-console */
+import life from './basic';
+// eslint-disable-next-line
 console.log('worked');
-console.log(sum([1, 2]));
+// eslint-disable-next-line
+console.log(life({ name: 'Маг', health: 90 }));
